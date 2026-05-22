@@ -22,16 +22,16 @@ export default function Home() {
               href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               className="font-medium text-zinc-950 dark:text-zinc-50"
             >
-              Templates
+              wkwk
             </a>{" "}
-            or the{" "}
+            wkwk{" "}
             <a
               href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               className="font-medium text-zinc-950 dark:text-zinc-50"
             >
-              Learning
+              wkwk
             </a>{" "}
-            center.
+            wkwk.
           </p>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
